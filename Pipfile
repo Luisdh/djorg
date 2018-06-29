@@ -7,6 +7,14 @@ name = "pypi"
 django = "*"
 python-decouple = "*"
 djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+pylint = "*"
+"autopep8" = "*"
+gunicorn = "*"
+"psycopg2-binary" = "*"
+dj-database-url = "*"
+whitenoise = "*"
 
 [dev-packages]
 
